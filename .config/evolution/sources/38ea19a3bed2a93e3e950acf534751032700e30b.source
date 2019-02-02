@@ -1,0 +1,19 @@
+[Data Source]
+DisplayName=xxarceus420xx@gmail.com
+Enabled=true
+Parent=2655906a65ed6793da32c517551e124d67bc4dad
+
+[Mail Transport]
+BackendName=smtp
+
+[Authentication]
+Host=smtp.gmail.com
+Method=Google
+Port=465
+ProxyUid=system-proxy
+RememberPassword=true
+User=xxarceus420xx@gmail.com
+CredentialName=
+
+[Security]
+Method=ssl-on-alternate-port

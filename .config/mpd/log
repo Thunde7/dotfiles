@@ -1,0 +1,98 @@
+Jan 30 14:29 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 30 14:29 : exception: Failed to open '/home/thunde7/.config/mpd/state': No such file or directory
+Jan 30 14:29 : client: [0] opened from 127.0.0.1:34538
+Jan 30 14:29 : client: [0] closed
+Jan 30 14:29 : client: [1] opened from 127.0.0.1:34542
+Jan 30 14:33 : client: [2] opened from 127.0.0.1:34558
+Jan 30 14:33 : client: [2] closed
+Jan 30 14:33 : client: [3] opened from 127.0.0.1:34562
+Jan 30 14:33 : exception: Not playing
+Jan 30 14:33 : client: [3] closed
+Jan 30 14:33 : client: [4] opened from 127.0.0.1:34566
+Jan 30 14:33 : exception: Not playing
+Jan 30 14:33 : client: [4] closed
+Jan 30 14:34 : client: [5] opened from 127.0.0.1:34572
+Jan 30 14:34 : client: [5] closed
+Jan 30 14:40 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 30 14:40 : client: [0] opened from 127.0.0.1:35502
+Jan 30 14:40 : client: [1] opened from 127.0.0.1:35506
+Jan 30 14:40 : client: [1] closed
+Jan 30 14:40 : client: [2] opened from 127.0.0.1:35512
+Jan 30 14:40 : client: [2] closed
+Jan 30 14:49 : client: [3] opened from 127.0.0.1:35626
+Jan 30 14:49 : client: [3] closed
+Jan 30 14:49 : client: [4] opened from 127.0.0.1:35630
+Jan 30 14:49 : client: [4] closed
+Jan 30 14:49 : client: [5] opened from 127.0.0.1:35634
+Jan 30 14:49 : client: [5] closed
+Jan 30 14:49 : client: [6] opened from 127.0.0.1:35638
+Jan 30 14:49 : client: [6] closed
+Jan 30 15:04 : client: [0] closed
+Jan 30 16:24 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 30 16:24 : client: [0] opened from 127.0.0.1:60838
+Jan 30 16:24 : client: [1] opened from 127.0.0.1:60842
+Jan 30 16:24 : client: [0] closed
+Jan 30 16:45 : client: [2] opened from 127.0.0.1:33148
+Jan 30 16:45 : client: [2] closed
+Jan 31 10:51 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jan 31 10:51 : client: [0] opened from 127.0.0.1:55258
+Jan 31 10:52 : client: [1] opened from 127.0.0.1:55262
+Jan 31 10:52 : client: [1] closed
+Jan 31 11:00 : client: [2] opened from 127.0.0.1:55298
+Jan 31 11:00 : client: [2] closed
+Jan 31 11:02 : client: [3] opened from 127.0.0.1:55304
+Jan 31 11:02 : client: [3] closed
+Jan 31 11:09 : client: [4] opened from 127.0.0.1:55410
+Jan 31 11:09 : client: [4] closed
+Jan 31 12:54 : client: [5] opened from 127.0.0.1:55590
+Jan 31 12:54 : client: [5] closed
+Jan 31 15:50 : client: [6] opened from 127.0.0.1:55614
+Jan 31 15:50 : client: [6] closed
+Jan 31 16:07 : client: [7] opened from 127.0.0.1:55630
+Jan 31 16:07 : client: [7] closed
+Jan 31 16:12 : client: [8] opened from 127.0.0.1:55646
+Jan 31 16:12 : client: [8] closed
+Jan 31 16:20 : client: [9] opened from 127.0.0.1:55658
+Jan 31 16:20 : exception: Not playing
+Jan 31 16:20 : client: [9] closed
+Jan 31 16:25 : client: [10] opened from 127.0.0.1:55666
+Jan 31 16:25 : client: [10] closed
+Jan 31 16:27 : client: [11] opened from 127.0.0.1:55670
+Jan 31 16:27 : client: [11] closed
+Jan 31 16:29 : client: [12] opened from 127.0.0.1:55678
+Jan 31 16:29 : client: [12] closed
+Jan 31 16:30 : client: [13] opened from 127.0.0.1:55682
+Jan 31 16:30 : client: [13] closed
+Jan 31 16:31 : client: [14] opened from 127.0.0.1:55686
+Jan 31 16:31 : client: [14] closed
+Jan 31 16:31 : client: [15] opened from 127.0.0.1:55690
+Jan 31 16:31 : client: [15] closed
+Jan 31 16:32 : client: [16] opened from 127.0.0.1:55694
+Jan 31 16:32 : client: [16] closed
+Jan 31 16:32 : client: [17] opened from 127.0.0.1:55698
+Jan 31 16:32 : client: [17] closed
+Jan 31 16:34 : client: [18] opened from 127.0.0.1:55706
+Jan 31 16:34 : client: [18] closed
+Jan 31 16:35 : client: [19] opened from 127.0.0.1:55750
+Jan 31 16:35 : client: [19] closed
+Jan 31 16:36 : client: [20] opened from 127.0.0.1:55754
+Jan 31 16:36 : client: [20] closed
+Jan 31 16:50 : client: [21] opened from 127.0.0.1:56242
+Jan 31 16:50 : client: [21] closed
+Jan 31 16:56 : client: [22] opened from 127.0.0.1:56264
+Jan 31 16:56 : client: [22] closed
+Jan 31 17:01 : client: [23] opened from 127.0.0.1:56280
+Jan 31 17:01 : client: [23] closed
+Jan 31 18:18 : client: [0] closed
+Feb 01 12:19 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 01 12:19 : client: [0] opened from 127.0.0.1:60858
+Feb 01 15:19 : client: [1] opened from 127.0.0.1:33164
+Feb 01 15:19 : client: [1] closed
+Feb 01 18:37 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 01 18:37 : client: [0] opened from 127.0.0.1:42966
+Feb 02 14:04 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 02 14:04 : client: [0] opened from 127.0.0.1:36010
+Feb 02 14:39 : client: [1] opened from 127.0.0.1:36098
+Feb 02 14:39 : client: [1] closed
+Feb 02 14:39 : client: [2] opened from 127.0.0.1:36110
+Feb 02 14:39 : client: [2] closed

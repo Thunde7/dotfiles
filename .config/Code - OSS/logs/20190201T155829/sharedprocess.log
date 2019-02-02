@@ -1,0 +1,8 @@
+[2019-02-01 15:58:33.123] [sharedprocess] [info] main {"machineId":"86c8eef51cab6658e3a2c03881dc7dcfcd9a156c302064ac4bbde35a3cd28f6d"}
+[2019-02-01 15:58:33.273] [sharedprocess] [info] Scanned user extensions: 11
+[2019-02-01 15:58:33.331] [sharedprocess] [info] Scanned user extensions: 11
+[2019-02-01 15:58:33.355] [sharedprocess] [info] Scanned user extensions: 11
+[2019-02-01 15:58:33.487] [sharedprocess] [info] Deleted from disk redhat.java-0.37.0
+[2019-02-01 15:58:33.496] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-01 15:58:33.500] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-01 15:59:13.132] [sharedprocess] [info] Starting to clean up unused language packs.

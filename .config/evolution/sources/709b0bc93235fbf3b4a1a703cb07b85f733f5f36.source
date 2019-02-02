@@ -1,0 +1,28 @@
+[Data Source]
+DisplayName=xxarceus420xx@gmail.com
+Enabled=true
+Parent=2655906a65ed6793da32c517551e124d67bc4dad
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=folder://local/Templates
+StartBottom=inconsistent
+TopSignature=inconsistent
+
+[Mail Identity]
+Address=xxarceus420xx@gmail.com
+Aliases=
+Name=omri chen
+Organization=
+ReplyTo=
+SignatureUid=none
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=38ea19a3bed2a93e3e950acf534751032700e30b
+RepliesToOriginFolder=false
+UseSentFolder=true

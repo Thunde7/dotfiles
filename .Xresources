@@ -1,0 +1,25 @@
+*.background: #01010f
+*.foreground: #82e7e8
+*cursur: #82e7e8
+
+*.color0: #00000a
+*.color1: #fc1025
+*.color2: #16a74b
+*.color3: #f59630
+*.color4: #2534ff
+*.color5: #e43049
+*.color6: #f0446f
+*.color7: #4bd7ef
+*.color8: #040235
+*.color9: #ff0d4c
+*.color10: #11df6d
+*.color11: #fa9744
+*.color12: #2d45c2
+*.color13: #e4364b
+*.color14: #e0348f
+*.color15: #82e7e8
+
+!! Transparency (0-255):
+st.alpha: 220
+!! Set a default font and font size as below:
+*.font: monospace-10;

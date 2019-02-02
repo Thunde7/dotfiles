@@ -1,0 +1,39 @@
+[2019-02-02 14:47:42.777] [sharedprocess] [info] main {"machineId":"86c8eef51cab6658e3a2c03881dc7dcfcd9a156c302064ac4bbde35a3cd28f6d"}
+[2019-02-02 14:47:43.581] [sharedprocess] [info] Scanned user extensions: 11
+[2019-02-02 14:47:43.804] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-02 14:47:46.970] [sharedprocess] [info] Scanned user extensions: 11
+[2019-02-02 14:47:47.024] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-02 14:47:47.616] [sharedprocess] [info] Scanned user extensions: 11
+[2019-02-02 14:47:49.349] [sharedprocess] [info] Scanned user extensions: 11
+[2019-02-02 14:47:49.358] [sharedprocess] [info] Scanned user extensions: 11
+[2019-02-02 14:47:49.363] [sharedprocess] [info] Scanned user extensions: 11
+[2019-02-02 14:47:49.365] [sharedprocess] [info] Scanned user extensions: 11
+[2019-02-02 14:47:49.493] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-02 14:47:49.503] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-02 14:47:49.514] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-02 14:48:22.785] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-02-02 14:48:58.582] [sharedprocess] [info] Installing extension: an-old-hope-theme-vscode
+[2019-02-02 14:48:58.639] [sharedprocess] [info] Scanned user extensions: 11
+[2019-02-02 14:48:59.020] [sharedprocess] [info] Downloaded extension: an-old-hope-theme-vscode /tmp/645b734c-bcc5-4273-b65b-923904f25755
+[2019-02-02 14:48:59.113] [sharedprocess] [info] Extracted extension to /home/thunde7/.vscode-oss/extensions/.dustinsanders.an-old-hope-theme-vscode-3.2.1: dustinsanders.an-old-hope-theme-vscode-3.2.1
+[2019-02-02 14:48:59.114] [sharedprocess] [info] Renamed to /home/thunde7/.vscode-oss/extensions/dustinsanders.an-old-hope-theme-vscode-3.2.1
+[2019-02-02 14:48:59.115] [sharedprocess] [info] Installation completed. dustinsanders.an-old-hope-theme-vscode-3.2.1
+[2019-02-02 14:48:59.168] [sharedprocess] [info] Extensions installed successfully: dustinsanders.an-old-hope-theme-vscode
+[2019-02-02 14:48:59.339] [sharedprocess] [info] Scanned user extensions: 12
+[2019-02-02 14:48:59.379] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-02 14:49:03.973] [sharedprocess] [info] Scanned user extensions: 12
+[2019-02-02 14:49:04.001] [sharedprocess] [info] Scanned user extensions: 12
+[2019-02-02 14:49:04.012] [sharedprocess] [info] Scanned user extensions: 12
+[2019-02-02 14:49:04.029] [sharedprocess] [info] Scanned user extensions: 12
+[2019-02-02 14:49:04.040] [sharedprocess] [info] Scanned user extensions: 12
+[2019-02-02 14:49:04.292] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-02 14:49:04.316] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-02 14:49:04.353] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-02 14:49:04.378] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-02 14:49:05.672] [sharedprocess] [info] Scanned user extensions: 12
+[2019-02-02 14:50:02.029] [sharedprocess] [info] Scanned user extensions: 12
+[2019-02-02 14:50:02.037] [sharedprocess] [info] Scanned user extensions: 12
+[2019-02-02 14:50:02.135] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-02 14:50:02.153] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-02 14:50:02.917] [sharedprocess] [info] Scanned user extensions: 12
+[2019-02-02 14:55:02.981] [sharedprocess] [info] Scanned user extensions: 12

@@ -1,0 +1,72 @@
+[2019-02-02 14:47:47.570] [exthost] [info] extension host started
+[2019-02-02 14:47:47.606] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-02-02 14:47:47.606] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2019-02-02 14:47:47.770] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-02-02 14:47:47.770] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/emmet/dist/extension
+[2019-02-02 14:47:47.823] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-02-02 14:47:47.823] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/git/dist/main
+[2019-02-02 14:47:48.052] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-02-02 14:47:48.052] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/merge-conflict/dist/extension
+[2019-02-02 14:47:48.083] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2019-02-02 14:47:48.083] [exthost] [info] ExtensionService#loadCommonJSModule /home/thunde7/.vscode-oss/extensions/dbaeumer.vscode-eslint-1.8.0/client/out/extension
+[2019-02-02 14:47:48.291] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"activationEvent":"*"}
+[2019-02-02 14:47:48.291] [exthost] [info] ExtensionService#loadCommonJSModule /home/thunde7/.vscode-oss/extensions/equinusocio.vsc-material-theme-2.6.3/extensions/material.theme.config.js
+[2019-02-02 14:47:48.364] [exthost] [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow {"startup":true,"activationEvent":"*"}
+[2019-02-02 14:47:48.364] [exthost] [info] ExtensionService#loadCommonJSModule /home/thunde7/.vscode-oss/extensions/oderwat.indent-rainbow-7.2.4/out/extension
+[2019-02-02 14:47:48.408] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2019-02-02 14:47:48.408] [exthost] [info] ExtensionService#loadCommonJSModule /home/thunde7/.vscode-oss/extensions/pkief.material-icon-theme-3.6.2/out/src/extension
+[2019-02-02 14:47:48.563] [exthost] [info] ExtensionService#_doActivateExtension vscode.python {"startup":false,"activationEvent":"onLanguage:python"}
+[2019-02-02 14:47:48.563] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/python/out/pythonMain
+[2019-02-02 14:47:48.595] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"activationEvent":"onLanguage:python"}
+[2019-02-02 14:47:48.595] [exthost] [info] ExtensionService#loadCommonJSModule /home/thunde7/.vscode-oss/extensions/ms-python.python-2019.1.0/out/client/extension
+[2019-02-02 14:47:49.721] [exthost] [info] eager extensions activated
+[2019-02-02 14:49:06.051] [exthost] [info] extension host started
+[2019-02-02 14:49:06.087] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-02-02 14:49:06.087] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2019-02-02 14:49:06.095] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-02-02 14:49:06.095] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/emmet/dist/extension
+[2019-02-02 14:49:06.141] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-02-02 14:49:06.141] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/git/dist/main
+[2019-02-02 14:49:06.369] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-02-02 14:49:06.369] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/merge-conflict/dist/extension
+[2019-02-02 14:49:06.389] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2019-02-02 14:49:06.389] [exthost] [info] ExtensionService#loadCommonJSModule /home/thunde7/.vscode-oss/extensions/dbaeumer.vscode-eslint-1.8.0/client/out/extension
+[2019-02-02 14:49:06.568] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"activationEvent":"*"}
+[2019-02-02 14:49:06.568] [exthost] [info] ExtensionService#loadCommonJSModule /home/thunde7/.vscode-oss/extensions/equinusocio.vsc-material-theme-2.6.3/extensions/material.theme.config.js
+[2019-02-02 14:49:06.606] [exthost] [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow {"startup":true,"activationEvent":"*"}
+[2019-02-02 14:49:06.606] [exthost] [info] ExtensionService#loadCommonJSModule /home/thunde7/.vscode-oss/extensions/oderwat.indent-rainbow-7.2.4/out/extension
+[2019-02-02 14:49:06.608] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2019-02-02 14:49:06.608] [exthost] [info] ExtensionService#loadCommonJSModule /home/thunde7/.vscode-oss/extensions/pkief.material-icon-theme-3.6.2/out/src/extension
+[2019-02-02 14:49:06.710] [exthost] [info] ExtensionService#_doActivateExtension vscode.python {"startup":false,"activationEvent":"onLanguage:python"}
+[2019-02-02 14:49:06.710] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/python/out/pythonMain
+[2019-02-02 14:49:06.712] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"activationEvent":"onLanguage:python"}
+[2019-02-02 14:49:06.713] [exthost] [info] ExtensionService#loadCommonJSModule /home/thunde7/.vscode-oss/extensions/ms-python.python-2019.1.0/out/client/extension
+[2019-02-02 14:49:07.772] [exthost] [info] eager extensions activated
+[2019-02-02 14:49:46.118] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-02-02 14:49:46.118] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/configuration-editing/dist/extension
+[2019-02-02 14:49:46.278] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-02-02 14:49:46.278] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/json-language-features/client/dist/jsonMain
+[2019-02-02 14:49:46.440] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-02-02 14:49:46.440] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/typescript-language-features/dist/extension
+[2019-02-02 14:50:03.139] [exthost] [info] extension host started
+[2019-02-02 14:50:03.175] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-02-02 14:50:03.175] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2019-02-02 14:50:03.183] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-02-02 14:50:03.183] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/emmet/dist/extension
+[2019-02-02 14:50:03.235] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-02-02 14:50:03.235] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/git/dist/main
+[2019-02-02 14:50:03.432] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-02-02 14:50:03.432] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/merge-conflict/dist/extension
+[2019-02-02 14:50:03.443] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2019-02-02 14:50:03.443] [exthost] [info] ExtensionService#loadCommonJSModule /home/thunde7/.vscode-oss/extensions/dbaeumer.vscode-eslint-1.8.0/client/out/extension
+[2019-02-02 14:50:03.558] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"activationEvent":"*"}
+[2019-02-02 14:50:03.558] [exthost] [info] ExtensionService#loadCommonJSModule /home/thunde7/.vscode-oss/extensions/equinusocio.vsc-material-theme-2.6.3/extensions/material.theme.config.js
+[2019-02-02 14:50:03.585] [exthost] [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow {"startup":true,"activationEvent":"*"}
+[2019-02-02 14:50:03.585] [exthost] [info] ExtensionService#loadCommonJSModule /home/thunde7/.vscode-oss/extensions/oderwat.indent-rainbow-7.2.4/out/extension
+[2019-02-02 14:50:03.588] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2019-02-02 14:50:03.588] [exthost] [info] ExtensionService#loadCommonJSModule /home/thunde7/.vscode-oss/extensions/pkief.material-icon-theme-3.6.2/out/src/extension
+[2019-02-02 14:50:04.753] [exthost] [info] eager extensions activated
+[2019-02-02 14:50:05.710] [exthost] [info] ExtensionService#_doActivateExtension vscode.python {"startup":false,"activationEvent":"onLanguage:python"}
+[2019-02-02 14:50:05.710] [exthost] [info] ExtensionService#loadCommonJSModule /usr/lib/code/extensions/python/out/pythonMain
+[2019-02-02 14:50:05.712] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"activationEvent":"onLanguage:python"}
+[2019-02-02 14:50:05.712] [exthost] [info] ExtensionService#loadCommonJSModule /home/thunde7/.vscode-oss/extensions/ms-python.python-2019.1.0/out/client/extension

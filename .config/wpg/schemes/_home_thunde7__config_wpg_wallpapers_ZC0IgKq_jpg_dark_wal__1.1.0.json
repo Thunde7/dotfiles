@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/thunde7/.config/wpg/wallpapers/ZC0IgKq.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#050237",
+        "foreground": "#90e1d4",
+        "cursor": "#90e1d4"
+    },
+    "colors": {
+        "color0": "#050237",
+        "color1": "#AB335F",
+        "color2": "#F35D70",
+        "color3": "#36B774",
+        "color4": "#F99973",
+        "color5": "#EADD6D",
+        "color6": "#5C658E",
+        "color7": "#90e1d4",
+        "color8": "#649d94",
+        "color9": "#AB335F",
+        "color10": "#F35D70",
+        "color11": "#36B774",
+        "color12": "#F99973",
+        "color13": "#EADD6D",
+        "color14": "#5C658E",
+        "color15": "#90e1d4"
+    }
+}

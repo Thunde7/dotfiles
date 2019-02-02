@@ -1,0 +1,24 @@
+Looking for git in: git
+Using git 2.20.1 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/thunde7/CSVDB
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse omric_branch
+> git rev-parse --symbolic-full-name omric_branch@{u}
+> git rev-list --left-right omric_branch...refs/remotes/origin/omric_branch
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse omric_branch
+> git rev-parse --symbolic-full-name omric_branch@{u}
+> git rev-list --left-right omric_branch...refs/remotes/origin/omric_branch
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :cmdline.py
+> git show :cmds.py
+> git show :columm.py

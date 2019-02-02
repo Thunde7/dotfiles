@@ -1,0 +1,25 @@
+{
+    "telemetry.machineId": "86c8eef51cab6658e3a2c03881dc7dcfcd9a156c302064ac4bbde35a3cd28f6d",
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
+    "windowsState": {
+        "openedWindows": [],
+        "lastActiveWindow": {
+            "backupPath": "/home/thunde7/.config/Code - OSS/Backups/1548865881324",
+            "uiState": {
+                "mode": 1,
+                "x": 10,
+                "y": 55,
+                "width": 1346,
+                "height": 703
+            }
+        }
+    },
+    "pickerWorkingDir": "/home/thunde7",
+    "openedPathsList": {
+        "workspaces2": [
+            "file:///home/thunde7/CSVDB"
+        ],
+        "files2": []
+    }
+}

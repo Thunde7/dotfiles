@@ -1,0 +1,15 @@
+[2019-02-01 15:52:16.278] [sharedprocess] [info] main {"machineId":"86c8eef51cab6658e3a2c03881dc7dcfcd9a156c302064ac4bbde35a3cd28f6d"}
+[2019-02-01 15:52:16.658] [sharedprocess] [info] Scanned user extensions: 11
+[2019-02-01 15:52:17.193] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-01 15:52:18.387] [sharedprocess] [info] Scanned user extensions: 11
+[2019-02-01 15:52:18.438] [sharedprocess] [info] Scanned system extensions: 71
+[2019-02-01 15:52:19.173] [sharedprocess] [info] Scanned user extensions: 11
+[2019-02-01 15:52:21.102] [sharedprocess] [info] Installing extension: java
+[2019-02-01 15:52:21.133] [sharedprocess] [info] Scanned user extensions: 11
+[2019-02-01 15:52:43.115] [sharedprocess] [info] Downloaded extension: java /tmp/d662eb35-c286-4afb-b0f6-cc2b8d9f3d7b
+[2019-02-01 15:52:44.433] [sharedprocess] [info] Extracted extension to /home/thunde7/.vscode-oss/extensions/.redhat.java-0.38.0: redhat.java-0.38.0
+[2019-02-01 15:52:44.434] [sharedprocess] [info] Renamed to /home/thunde7/.vscode-oss/extensions/redhat.java-0.38.0
+[2019-02-01 15:52:44.436] [sharedprocess] [info] Installation completed. redhat.java-0.38.0
+[2019-02-01 15:52:44.525] [sharedprocess] [info] Extensions installed successfully: redhat.java
+[2019-02-01 15:52:56.291] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-02-01 15:57:19.237] [sharedprocess] [info] Scanned user extensions: 11
